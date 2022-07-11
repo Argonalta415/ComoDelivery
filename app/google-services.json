@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "792881715338",
+    "project_id": "comodelivery-d7e33",
+    "storage_bucket": "comodelivery-d7e33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792881715338:android:7ee12facddeefbc92e3573",
+        "android_client_info": {
+          "package_name": "com.argo.comodelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792881715338-tiknk9nv169ddg9mfa025uuvh0llk27q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.argo.comodelivery",
+            "certificate_hash": "4a9645f1e6adf34ddb18671082ed22be3cfecd4a"
+          }
+        },
+        {
+          "client_id": "792881715338-b62ifr9rv32gr5p9rv1cbvp91m0nv8je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBTL15OHTMBxk0sVZeexL-Q9tZ3MClR6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792881715338-b62ifr9rv32gr5p9rv1cbvp91m0nv8je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

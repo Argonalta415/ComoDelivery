@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.argo.comodelivery">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo2"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ComoDelivery">
+        <activity
+            android:name=".activity.activity.PedidosActivity"
+            android:parentActivityName=".activity.activity.EmpresaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.activity.CardapioActivity"
+            android:exported="false"
+            android:parentActivityName=".activity.activity.HomeActivity" />
+        <activity
+            android:name=".activity.activity.ConfiguracoesUsuarioActivity"
+            android:exported="false"
+            android:parentActivityName=".activity.activity.HomeActivity" />
+        <activity
+            android:name=".NovoProdutoEmpresaActivity"
+            android:exported="false"
+            android:parentActivityName=".activity.activity.EmpresaActivity" />
+        <activity
+            android:name=".ConfiguracoesEmpresaActivity"
+            android:exported="false"
+            android:parentActivityName=".activity.activity.EmpresaActivity" />
+        <activity
+            android:name=".activity.activity.EmpresaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.activity.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.activity.AutencicacaoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.activity.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category
+                    android:name="android.intent.category.LAUNCHER"
+                    android:parentActivityName=".activity.activity.HomeActivity" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

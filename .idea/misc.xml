@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/drawable/bg_back.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/drawable/bg_edit_text.xml" value="0.22037037037037038" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/layout/activity_Splash.xml" value="0.25" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/layout/activity_autencicacao.xml" value="0.33" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/layout/activity_cardapio.xml" value="0.25" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/layout/activity_configuracoes_empresa.xml" value="0.18" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/layout/activity_configuracoes_usuario.xml" value="0.25" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/layout/activity_empresa.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/layout/activity_home.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/layout/activity_novo_produto_empresa.xml" value="0.33" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/layout/activity_pedidos.xml" value="0.2765625" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/layout/activity_splash.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/layout/adapter_empresa.xml" value="0.25" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/layout/adapter_pedidos.xml" value="0.2765625" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/layout/adapter_produto.xml" value="0.25" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/layout/divisor.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/layout/toolbar.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/menu/menu_cardapio.xml" value="0.27760416666666665" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/menu/menu_empresa.xml" value="0.25" />
+        <entry key="..\:/Users/mcarv/AndroidStudioProjects/ComoDelivery/app/src/main/res/menu/menu_usuario.xml" value="0.178125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
